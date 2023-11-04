@@ -1,4 +1,7 @@
 Hey there! 👋
+
+I make programming projects as a hobby, you can view some of them here:
+
 ## Overview of my repos
 ### My Projects
 - [Portfolio](https://github.com/uzairarif5/portfolio) (work in progress)
