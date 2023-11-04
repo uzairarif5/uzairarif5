@@ -1,7 +1,7 @@
 Hey there! 👋
 ## Overview of my repos
 ### My Projects
-- [Portfolio](https://github.com/uzairarif5/portfolio)
+- [Portfolio](https://github.com/uzairarif5/portfolio) (work in progress)
 - [Study notes website repo](https://github.com/uzairarif5/uzairarif5.github.io.git)
 - My first website (not in this account): [deriveit.net](https://github.com/deriveitCreator/deriveitCreator.github.io)
 
