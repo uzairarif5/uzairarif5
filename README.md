@@ -10,5 +10,8 @@ Hey there! 👋
 
 More projects coming soon 😊
 
+### LinkedIn Learning repos:
+ - [Building Modern Projects with React](https://github.com/uzairarif5/react_ecosystem)
+
 ### Other repos:
 - [repo to dump all my leetcode solutions](https://github.com/uzairarif5/leetCodeSolutions)
