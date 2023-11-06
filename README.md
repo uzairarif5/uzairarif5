@@ -1,11 +1,11 @@
 Hey there! 👋
 
-I make programming projects as a hobby, you can view some of them here:
+I make programming projects as a hobby and you can view some of them here:
 
 ## Overview of my repos
 ### My Projects
 - [Portfolio](https://github.com/uzairarif5/portfolio) (work in progress)
-- Study notes website: [current repo](https://github.com/uzairarif5/uzairarif5.github.io.git), [using Next.js (work-in-progress)](https://github.com/uzairarif5/study_notes)
+- Study notes website: [current repo](https://github.com/uzairarif5/uzairarif5.github.io.git); [new repo using Next.js (work-in-progress)](https://github.com/uzairarif5/study_notes)
 - My first website (not in this account): [deriveit.net](https://github.com/deriveitCreator/deriveitCreator.github.io)
 
 ### Old Projects:
