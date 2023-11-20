@@ -17,6 +17,7 @@ I make programming projects as a hobby and you can view some of them here:
 
 ### Following some tutorial or something (also not for show):
 - [nextjs-dashboard](https://github.com/uzairarif5/nextjs-dashboard)
+- [issue-tracker](https://github.com/uzairarif5/issue-tracker)
 
 ### Other repos (also not for show):
 - [repo to dump all my leetcode solutions](https://github.com/uzairarif5/leetCodeSolutions)
