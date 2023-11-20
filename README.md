@@ -4,7 +4,7 @@ I make programming projects as a hobby and you can view some of them here:
 
 ## Overview of my repos
 ### My Projects
-- [Portfolio](https://github.com/uzairarif5/portfolio) (work in progress)
+- [Portfolio] coming soon
 - Study notes website: [current repo](https://github.com/uzairarif5/uzairarif5.github.io.git)
 - My first website (not in this account): [deriveit.net](https://github.com/deriveitCreator/deriveitCreator.github.io)
 
