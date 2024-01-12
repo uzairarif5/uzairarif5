@@ -10,7 +10,7 @@ I make programming projects as a hobby and you can view some of them here:
 - My attempt at making an image classification neural network: [current repo](https://github.com/uzairarif5/NNForDigits)
 
 ### Smaller Projects
- - Some python stuff I feel proud of: [current repo](https://github.com/uzairarif5/randomPythonStuff)
+ - Small python codes I feel proud of: [current repo](https://github.com/uzairarif5/randomPythonStuff)
 
 ### Old Projects:
 - [Connect4 using Python](https://github.com/uzairarif5/Connect4)
