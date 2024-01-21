@@ -11,6 +11,7 @@ I make programming projects as a hobby and you can view some of them here:
 
 ### Smaller Projects
  - Small python codes I feel proud of: [current repo](https://github.com/uzairarif5/randomPythonStuff)
+ - "Automatically" apply to jobs: [current repo](https://github.com/uzairarif5/autoApply)
 
 ### Old Projects:
 - [Connect4 using Python](https://github.com/uzairarif5/Connect4)
