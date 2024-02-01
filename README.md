@@ -5,7 +5,7 @@ I make programming projects as a hobby and you can view some of them here:
 ## Overview of my repos
 ### My Projects
 - [Portfolio] coming soon
-- Study notes website: [current repo](https://github.com/uzairarif5/uzairarif5.github.io.git)
+- Study notes website: [current repo](https://github.com/uzairarif5/studyNotes.git)
 - My first website (not in this account): [deriveit.net](https://github.com/deriveitCreator/deriveit.git)
 - My attempt at making an image classification neural network: [current repo](https://github.com/uzairarif5/NNForDigits)
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
