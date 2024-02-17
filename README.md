@@ -25,7 +25,7 @@ I make programming projects as a hobby and you can view some of them here:
 - [nextjs-dashboard](https://github.com/uzairarif5/nextjs-dashboard) from [this course](https://nextjs.org/learn/dashboard-app)
 - [issue-tracker](https://github.com/uzairarif5/issue-tracker) from [programming with Mosh](https://www.youtube.com/watch?v=J9sfR6HN6BY&t=294s)
 
-### Other repos (also not for show):
+### Other repos:
 - [repo to dump all my leetcode solutions](https://github.com/uzairarif5/leetCodeSolutions)
 
 
