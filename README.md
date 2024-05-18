@@ -8,6 +8,7 @@ I make programming projects as a hobby and you can view some of them here:
 - Study notes website: [current repo](https://github.com/uzairarif5/studyNotes.git)
 - My first website (not in this account): [deriveit.net](https://github.com/deriveitCreator/deriveit.git)
 - My attempt at making an image classification neural network: [current repo](https://github.com/uzairarif5/NNForDigits)
+- A Tetris game made in Java [current repo](https://github.com/uzairarif5/Tetris)
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
 
 ### Smaller Projects
