@@ -15,7 +15,7 @@ I make programming projects as a hobby and you can view some of them here:
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
 - "Automatically" apply to jobs: [current repo](https://github.com/uzairarif5/autoApply)
-- One-file Python Stuff: [current repo](https://github.com/uzairarif5/randomPythonStuff)
+- One-file Python Stuff: [current repo](https://github.com/uzairarif5/oneFilePython)
 
 ### Old Projects:
 - [Connect4 using Python](https://github.com/uzairarif5/Connect4)
