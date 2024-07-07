@@ -18,8 +18,8 @@ I make programming projects as a hobby and you can view some of them here:
 - One-file Python Stuff: [current repo](https://github.com/uzairarif5/oneFilePython)
 
 ### Old Projects:
-- [Connect4 using Python](https://github.com/uzairarif5/Connect4)
-- [Bomberman using Node.js](https://github.com/uzairarif5/bomberman)
+- [Connect4 in Python](https://github.com/uzairarif5/Connect4)
+- [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
 
 ### Other repos:
 - [repo to dump all my leetcode solutions](https://github.com/uzairarif5/leetCodeSolutions)
