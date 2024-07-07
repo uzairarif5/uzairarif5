@@ -19,6 +19,7 @@ I make programming projects as a hobby and you can view some of them here:
 
 ### Old Projects:
 - [Connect4 using Python](https://github.com/uzairarif5/Connect4)
+- [Bomberman using Node.js](https://github.com/uzairarif5/bomberman)
 
 ### Other repos:
 - [repo to dump all my leetcode solutions](https://github.com/uzairarif5/leetCodeSolutions)
