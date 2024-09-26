@@ -12,7 +12,7 @@ I make programming projects as a hobby and you can view some of them here:
 - Django-related apps (work in progress): [django-apps](https://github.com/uzairarif5/django_apps)
 - My attempt at making an image classification neural network in Python: [current repo](https://github.com/uzairarif5/NNForDigits)
 - A Tetris game made in Java [current repo](https://github.com/uzairarif5/Tetris)
-- C raylib projects (not in this account) [current repo]((https://github.com/deriveitCreator/raylib_stuff))
+- C raylib projects (not in this account) [current repo](https://github.com/deriveitCreator/raylib_stuff)
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
