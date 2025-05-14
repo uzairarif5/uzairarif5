@@ -5,8 +5,9 @@ I make programming projects as a hobby and you can view some of them here:
 ## Overview of my repos
 ### My Projects
 - [Portfolio] coming soon
-- Study notes website: [study_notes](https://github.com/uzairarif5/studyNotes.git)
+- Study notes website: [studyNotes](https://github.com/uzairarif5/studyNotes.git)
 - My first website (not in this account): [deriveit.net](https://github.com/deriveitCreator/deriveit.git)
+- Website for browser games: [svelteGames]()
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
 - An app for displaying stream chat (not in this account): [chat_app](https://github.com/deriveitCreator/chat_app)
 - Django-related apps (work in progress): [django-apps](https://github.com/uzairarif5/django_apps)
