@@ -12,7 +12,6 @@ I make programming projects as a hobby and you can view some of them here:
 - An app for displaying stream chat (not in this account): [chat_app](https://github.com/deriveitCreator/chat_app)
 - Django-related apps (work in progress): [django-apps](https://github.com/uzairarif5/django_apps)
 - My attempt at making an image classification neural network in Python: [current repo](https://github.com/uzairarif5/NNForDigits)
-- A Tetris game made in Java: [current repo](https://github.com/uzairarif5/Tetris)
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
@@ -20,6 +19,8 @@ I make programming projects as a hobby and you can view some of them here:
 - "Automatically" apply to jobs: [current repo](https://github.com/uzairarif5/autoApply)
 
 ### Old Projects:
+- [Genetic algorithm in Java](https://github.com/uzairarif5/trashbotAI)
+- [Tetris in Java](https://github.com/uzairarif5/Tetris)
 - [Connect4 in Python](https://github.com/uzairarif5/Connect4)
 - [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
 
