@@ -12,7 +12,6 @@ I make programming projects as a hobby and you can view some of them here:
 - An app for displaying stream chat (not in this account): [chat_app](https://github.com/deriveitCreator/chat_app)
 - Django apps (mostly backend stuff for other projects; also work in progress): [django-apps](https://github.com/uzairarif5/django_apps)
 - My attempt at making an image classification neural network in Python: [NNForDigits](https://github.com/uzairarif5/NNForDigits)
-- My attempt at making a genetic algorithm in Java: [TrashbotAI](https://github.com/uzairarif5/trashbotAI)
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
