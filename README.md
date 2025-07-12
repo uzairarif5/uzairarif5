@@ -26,4 +26,5 @@ I make programming projects as a hobby and you can view some of them here:
 - [Connect4 in Python](https://github.com/uzairarif5/Connect4)
 
 More repos coming soon! 😊
+
 Also, "*" means "not in this account".
