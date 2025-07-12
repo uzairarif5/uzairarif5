@@ -7,7 +7,7 @@ I make programming projects as a hobby and you can view some of them here:
 - [Portfolio] coming soon
 - Study notes website: [studyNotes](https://github.com/uzairarif5/studyNotes.git)
 - *First website: [deriveit.net](https://github.com/deriveitCreator/deriveit)
-- Website for browser games: [svelteGames](https://github.com/uzairarif5/svelteGames)
+- *Website for browser games: [svelteGames](https://github.com/deriveitCreator/svelteGames)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
 - Django apps (mostly backend stuff for other projects; also work in progress): [django-apps](https://github.com/uzairarif5/django_apps)
 - My attempt at making an image classification neural network in Python: [NNForDigits](https://github.com/uzairarif5/NNForDigits)
