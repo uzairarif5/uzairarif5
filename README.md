@@ -25,6 +25,8 @@ I make programming projects as a hobby and you can view some of them here:
 - [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
 - [Connect4 in Python](https://github.com/uzairarif5/Connect4)
 
+<hr/>
+
 More repos coming soon! 😊
 
 Also, "*" means "not in this account".
