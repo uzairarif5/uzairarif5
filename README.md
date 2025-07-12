@@ -21,7 +21,7 @@ I make programming projects as a hobby and you can view some of them here:
 ### Old Projects:
 - [Genetic algorithm in Java](https://github.com/uzairarif5/trashbotAI)
 - [Tetris in Java](https://github.com/uzairarif5/Tetris)
-- "Automatically" apply to jobs: [current repo](https://github.com/uzairarif5/autoApply)
+- ["Automatically" apply to jobs](https://github.com/uzairarif5/autoApply)
 - [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
 - [Connect4 in Python](https://github.com/uzairarif5/Connect4)
 
