@@ -6,7 +6,7 @@ I make programming projects as a hobby and you can view some of them here:
 ### My Projects
 - [Portfolio] coming soon
 - Study notes website: [studyNotes](https://github.com/uzairarif5/studyNotes.git)
-- First website: [deriveit.net](https://github.com/deriveitCreator/deriveit)
+- *First website: [deriveit.net](https://github.com/deriveitCreator/deriveit)
 - Website for browser games: [svelteGames](https://github.com/uzairarif5/svelteGames)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
 - Django apps (mostly backend stuff for other projects; also work in progress): [django-apps](https://github.com/uzairarif5/django_apps)
@@ -23,4 +23,5 @@ I make programming projects as a hobby and you can view some of them here:
 - [Connect4 in Python](https://github.com/uzairarif5/Connect4)
 - [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
 
-More repos coming soon 😊
+More repos coming soon! 😊
+Also, "*" means "not in this account".
