@@ -14,14 +14,16 @@ I make programming projects as a hobby and you can view some of them here:
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
+- LAN streaming: [current repo](https://github.com/deriveitCreator/localStream)
+- Desktop Buddy: [current repo](https://github.com/deriveitCreator/desktopBuddy)
 - One-file Python Stuff: [current repo](https://github.com/uzairarif5/oneFilePython)
-- "Automatically" apply to jobs: [current repo](https://github.com/uzairarif5/autoApply)
 
 ### Old Projects:
 - [Genetic algorithm in Java](https://github.com/uzairarif5/trashbotAI)
 - [Tetris in Java](https://github.com/uzairarif5/Tetris)
-- [Connect4 in Python](https://github.com/uzairarif5/Connect4)
+- "Automatically" apply to jobs: [current repo](https://github.com/uzairarif5/autoApply)
 - [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
+- [Connect4 in Python](https://github.com/uzairarif5/Connect4)
 
 More repos coming soon! 😊
 Also, "*" means "not in this account".
