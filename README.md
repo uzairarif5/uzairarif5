@@ -11,6 +11,7 @@ I make programming projects as a hobby and you can view some of them here:
 - App for chatting with friends: [chitchat](https://github.com/uzairarif5/chitchat)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
 - My attempt at making an image classification neural network in Python: [NNForDigits](https://github.com/uzairarif5/NNForDigits)
+- An AI bot learning to shoot space trash [TrashBotAI](https://github.com/uzairarif5/trashbotAI)
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
@@ -19,7 +20,6 @@ I make programming projects as a hobby and you can view some of them here:
 - One-file Python Stuff: [current repo](https://github.com/uzairarif5/oneFilePython)
 
 ### Old Projects:
-- [Genetic algorithm in Java](https://github.com/uzairarif5/trashbotAI)
 - [Tetris in Java](https://github.com/uzairarif5/Tetris)
 - ["Automatically" apply to jobs](https://github.com/uzairarif5/autoApply)
 - [Bomberman in Node.js](https://github.com/uzairarif5/bomberman)
