@@ -10,7 +10,7 @@ I make programming projects as a hobby and you can view some of them here:
 - *Website for browser games: [svelteGames](https://github.com/deriveitCreator/svelteGames)
 - App for chatting with friends: [chitchat](https://github.com/uzairarif5/chitchat)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
-- My attempt at making an image classification neural network in Python: [NNForDigits](https://github.com/uzairarif5/NNForDigits)
+- My attempt at making an image classification neural network in Python: [CNNForDigits](https://github.com/uzairarif5/CNNForDigits)
 - An AI bot learning to shoot space trash [TrashBotAI](https://github.com/uzairarif5/trashbotAI)
 
 ### Smaller Projects
