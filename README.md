@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I make programming projects as a hobby. You can view some of them here:
+I make programming projects as a hobby.
 
 ## Overview of my repos
 ### My Projects
@@ -32,4 +32,4 @@ More repos coming soon! 😊
 
 *: These projects are in my other account.
 
-^: All AI projects are built from scratch, they are not wrappers.
+^: All AI projects are built from scratch, these are not wrappers.
