@@ -28,6 +28,8 @@ I make programming projects as a hobby. You can view some of them here:
 
 More repos coming soon! 😊
 
+<hr/>
+
 *: These projects are in my other account.
 
 ^: All AI projects are built from scratch, they are not wrappers.
