@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I make programming projects as a hobby and you can view some of them here:
+I make programming projects as a hobby. You can view some of them here:
 
 ## Overview of my repos
 ### My Projects
@@ -10,8 +10,8 @@ I make programming projects as a hobby and you can view some of them here:
 - *Website for browser games: [svelteGames](https://github.com/deriveitCreator/svelteGames)
 - App for chatting with friends: [chitchat](https://github.com/uzairarif5/chitchat)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
-- My attempt at making an image classification neural network in Python: [CNNForDigits](https://github.com/uzairarif5/CNNForDigits)
-- An AI bot learning to shoot space trash [TrashBotAI](https://github.com/uzairarif5/trashbotAI)
+- ^My attempt at making an image classification neural network in Python: [CNNForDigits](https://github.com/uzairarif5/CNNForDigits)
+- ^An AI bot learning to shoot space trash [TrashBotAI](https://github.com/uzairarif5/trashbotAI)
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
@@ -28,4 +28,5 @@ I make programming projects as a hobby and you can view some of them here:
 
 More repos coming soon! 😊
 
-Also, "*" means "not in this account".
+*: These projects are in my other account.
+^: All AI projects are built from scratch, they are not wrappers.
