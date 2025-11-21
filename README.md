@@ -4,7 +4,7 @@ I make programming projects as a hobby.
 
 ## Overview of my repos
 ### My Projects
-- [Portfolio] coming soon
+- Portfolio attempt: [Portfolio](https://github.com/uzairarif5/portfolio)
 - Study notes website: [studyNotes](https://github.com/uzairarif5/studyNotes.git)
 - *First website: [deriveit.net](https://github.com/deriveitCreator/deriveit)
 - *Browser games website: [svelteGames](https://github.com/deriveitCreator/svelteGames)
