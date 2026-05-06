@@ -1,6 +1,8 @@
-Hey there! 👋
+Bdy byyqe! 
 
-I make programming projects as a hobby.
+Q jyd tprn xoc kin azv vkeajyc wqkb jnwnfddov.
+
+Qdlt kbnu ayukl vfq keiih zbwln ly zvjns!
 
 ## Overview of my repos
 ### My Projects
