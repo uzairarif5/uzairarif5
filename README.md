@@ -1,8 +1,3 @@
-24y 2yyhe...
-
-Q ay4 tpre oo3 b9e azv vbe1ay3 wqb2 anwe64dov.
-
-H4lt b2eu 1yubl v6h bei98 zbwce cy zvaes!
 
 ## Overview of my repos
 ### My Projects
@@ -36,7 +31,3 @@ More repos coming soon! 😊
 
 ^: These AI projects are built from scratch; external models were not used.
 
-<br/>
-Ylezge7ivx e7a2 yui hi7a4nmu eedig, ylezge7ivx e7a2 yui hi7a4nmu 3d h34ud hqaeer7, vg4r7b28no b2zt prd 7ax7ydel z8 jhm y3itw9j ef 2yy knqdyhsm... yui lmu jeu 26 c4alz86 tpzd je6b...
-
-8ew ove bo1b
