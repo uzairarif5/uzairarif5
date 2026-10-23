@@ -12,7 +12,6 @@
 
 ### Smaller Projects
 - Cellular Automaton: [current repo](https://github.com/uzairarif5/cellular_automaton)
-- *LAN streaming: [current repo](https://github.com/deriveitCreator/localStream)
 - *Desktop Buddy: [current repo](https://github.com/deriveitCreator/desktopBuddy)
 - One-file Python Stuff: [current repo](https://github.com/uzairarif5/oneFilePython)
 
