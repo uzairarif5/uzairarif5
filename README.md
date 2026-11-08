@@ -4,7 +4,7 @@
 - [Portfolio](https://github.com/uzairarif5/portfolio)
 - Study notes website: [studyNotes](https://github.com/uzairarif5/studyNotes.git)
 - *First website: [deriveit.net](https://github.com/deriveitCreator/deriveit)
-- *Browser games website: [svelteGames](https://github.com/deriveitCreator/svelteGames)
+- *Browser games website: [SiliconBits](https://github.com/deriveitCreator/SiliconBits)
 - App for chatting with friends: [chitchat](https://github.com/uzairarif5/chitchat)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
 - ^My attempt at making an image classification neural network in Python: [CNNForDigits](https://github.com/uzairarif5/CNNForDigits)
