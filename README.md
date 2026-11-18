@@ -3,13 +3,13 @@
 ### My Projects
 - [Portfolio](https://github.com/uzairarif5/portfolio)
 - Study notes website: [studyNotes](https://github.com/uzairarif5/studyNotes.git)
-- *First website: [deriveit.net](https://github.com/deriveitCreator/deriveit)
-- *Browser games website: [SiliconBits](https://github.com/deriveitCreator/SiliconBits)
+- *First website: [deriveit.net](https://github.com/TheMysteriousDeveloper0845/deriveit)
+- *Browser games website: [SiliconBits](https://github.com/TheMysteriousDeveloper0845/SiliconBits)
 - App for chatting with friends: [chitchat](https://github.com/uzairarif5/chitchat)
 - An App for practising discrete maths (work in progress): [DiscreteMathsDojo](https://github.com/uzairarif5/DiscreteMathsDojo)
 - ^My attempt at making an image classification neural network in Python: [CNNForDigits](https://github.com/uzairarif5/CNNForDigits)
 - ^An AI bot learning to shoot space trash [TrashBotAI](https://github.com/uzairarif5/trashbotAI)
-- *Desktop Buddy: [current repo](https://github.com/deriveitCreator/desktopBuddy)
+- *Desktop Buddy: [current repo](https://github.com/TheMysteriousDeveloper0845/desktopBuddy)
 
 ### Old Projects:
 - [Cellular Automaton](https://github.com/uzairarif5/cellular_automaton)
